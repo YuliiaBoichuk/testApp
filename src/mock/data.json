@@ -1,0 +1,106 @@
+
+{
+  "success":true,
+  "payload":[
+    {
+      "_id":"5eb17101f1138d00948f06fc",
+      "visible":true,
+      "deleted":false,
+      "btu":12.110,
+      "name":"בטכנולוגיית AIR CARE מזגן SUPREME TADIRAN 15",
+      "price":"1420",
+      "category":"מאייד",
+      "createdAt":"2020-05-05T13:58:25.970Z",
+      "__v":0
+    },
+    {
+      "_id":"5eb17101f1138d00948f06fd",
+      "visible":true,
+      "deleted":false,
+      "btu":12.110,
+      "name":"בטכנולוגיית AIR CARE מזגן SUPREME TADIRAN 17",
+      "price":"3220",
+      "category":"מאייד",
+      "createdAt":"2020-05-05T13:58:25.972Z",
+      "__v":0
+    },
+    {
+      "_id":"5eb17101f1138d00948f06fe",
+      "visible":true,
+      "deleted":false,
+      "btu":12.110,
+      "name":"בטכנולוגיית AIR CARE מזגן SUPREME TADIRAN 19",
+      "price":"3620",
+      "category":"מאייד",
+      "createdAt":"2020-05-05T13:58:25.974Z",
+      "__v":0,
+      "price":10.5
+    },
+    {
+      "_id":"5eb17101f1138d00948f0703",
+      "visible":true,
+      "deleted":false,
+      "btu":12.110,
+      "name":"בטכנולוגיית AIR CARE מזגן SUPREME TADIRAN 65",
+      "price":"6720",
+      "category":"מאייד",
+      "createdAt":"2020-05-05T13:58:25.984Z",
+      "__v":0
+    },
+    {
+      "_id":"5eb17101f1138d00948f0704",
+      "visible":true,
+      "deleted":false,
+      "btu":12.110,
+      "name":"בטכנולוגיית AIR CARE מזגן SUPREME TADIRAN 55",
+      "price":"8982",
+      "category":"מאייד",
+      "createdAt":"2020-05-05T13:58:25.986Z",
+      "__v":0
+    },
+    {
+      "_id":"5eb17101f1138d00948f0705",
+      "visible":true,
+      "deleted":false,
+      "btu":12.110,
+      "name":"בטכנולוגיית AIR CARE מזגן SUPREME TADIRAN 45",
+      "price":"9823",
+      "category":"מאייד",
+      "createdAt":"2020-05-05T13:58:25.987Z",
+      "__v":0
+    },
+    {
+      "_id":"5eb17101f1138d00948f0707",
+      "visible":true,
+      "deleted":false,
+      "btu":12.110,
+      "name":"בטכנולוגיית AIR CARE מזגן SUPREME TADIRAN 35",
+      "price":"2344",
+      "category":"מאייד",
+      "createdAt":"2020-05-05T13:58:25.991Z",
+      "__v":0
+    },
+    {
+      "_id":"5eb17101f1138d00948f0708",
+      "visible":true,
+      "deleted":false,
+      "btu":12.110,
+      "name":"בטכנולוגיית AIR CARE מזגן SUPREME TADIRAN 25",
+      "price":"1111",
+      "category":"מאייד",
+      "createdAt":"2020-05-05T13:58:25.993Z",
+      "__v":0
+    },
+    {
+      "_id":"5eb17101f1138d00948f070a",
+      "visible":true,
+      "deleted":false,
+      "btu":12.110,
+      "name":"בטכנולוגיית AIR CARE מזגן SUPREME TADIRAN 16",
+      "price":"2345",
+      "category":"מאייד",
+      "createdAt":"2020-05-05T13:58:25.996Z",
+      "__v":0
+    }
+  ]
+}
